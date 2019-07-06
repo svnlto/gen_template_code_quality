@@ -1,7 +1,7 @@
 defmodule CodeQuality.Mixfile do
   use Mix.Project
 
-  @name    :code_quality
+  @name    :gen_template_code_quality
   @version "0.1.0"
 
   @deps [
